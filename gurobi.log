@@ -1,0 +1,800 @@
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:05:01 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:13:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:13:45 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:14:11 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:15:24 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:15:34 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:16:17 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:24:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 17:24:22 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:03:41 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:03:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:07:46 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:07:56 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:08:37 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:08:38 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:11:18 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:12:18 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:12:30 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:12:46 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:13:09 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:13:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:14:15 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:14:24 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:16:50 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:17:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:19:33 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:46:18 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:46:24 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:46:54 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:47:05 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:48:02 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:48:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:49:18 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:49:23 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:51:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:51:17 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:52:53 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:52:59 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:53:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:53:46 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:54:38 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:54:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:55:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:56:04 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 18:56:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:14:29 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:15:11 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:17:37 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:18:15 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:18:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:18:51 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:18:53 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:23:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:23:15 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:23:42 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:23:51 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:24:01 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:24:03 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:24:38 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:24:40 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:25:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:25:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:26:05 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:26:51 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:27:47 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:28:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:28:15 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:31:24 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:31:31 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:32:00 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:34:38 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:34:58 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:38:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:38:46 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:40:11 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:41:19 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:41:55 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:43:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:44:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:45:52 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:48:13 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:49:01 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:49:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:49:32 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:49:58 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 19:51:50 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:22:44 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:23:04 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:24:23 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:24:38 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:25:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:25:26 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:30:25 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:30:39 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:35:01 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:35:13 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:35:59 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:38:08 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:38:20 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:38:25 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:38:31 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:39:48 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:39:52 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:41:03 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:41:13 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:41:32 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:41:57 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:42:02 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:42:58 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:43:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:44:39 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:44:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:46:22 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:46:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:46:52 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:46:56 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:48:56 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:48:59 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:50:15 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:50:25 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:52:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:52:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:55:22 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:55:28 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:57:00 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:57:12 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 20:57:23 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:00:22 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:01:35 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:02:13 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:02:20 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:02:52 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:03:36 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:04:20 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:05:20 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:05:53 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:11:16 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:12:54 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:22:30 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:25:44 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:29:21 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:29:27 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:39:43 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:39:53 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:40:16 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:40:28 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 21:40:30 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:00:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:00:26 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:00:52 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:03:14 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:03:20 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:06:18 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:06:55 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:07:07 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:07:33 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:07:37 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:09:16 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:10:03 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
+
+Gurobi 10.0.1 (linux64, gurobi_cl) logging started Sat Jun 10 22:11:33 2023
+
+Set parameter LogFile to value "gurobi.log"
+Restricted license - for non-production use only - expires 2024-10-28
